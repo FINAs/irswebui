@@ -1,0 +1,11 @@
+.demo-ul li{
+  max-width:300px;
+}
+.ant-select-dropdown li{
+  /* overflow: auto;
+  word-break: break-all;
+  white-space:normal; */
+}
+.irs-combobox-multiple .hide-in-input{
+  display:none;
+}
